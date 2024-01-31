@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/kimjacinta/LegacyGuardBackend#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "cors": "^2.8.5",
+    "danfojs-node": "^1.1.2",
+    "dayjs": "^1.11.10",
+    "express": "^4.18.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
   }
 }
